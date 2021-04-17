@@ -1,0 +1,28 @@
+{
+  "name": "assessment_innv",
+  "version": "1.0.0",
+  "description": "Test assessment for innovative solutions",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jazeb/assessment_innv.git"
+  },
+  "author": "Jazeb Munir",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jazeb/assessment_innv/issues"
+  },
+  "homepage": "https://github.com/Jazeb/assessment_innv#readme",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "body-parser": "*",
+    "express": "^4.17.1",
+    "jest": "^26.6.3",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.12.4",
+    "request": "^2.88.2"
+  }
+}
